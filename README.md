@@ -20,12 +20,6 @@ Event Handling
 GUI Layout Management
 Randomized Game Logic
 
-# Project Structure:
-rock-paper-scissors/
-│
-├── main.py        # Complete game logic and GUI implementation
-└── README.md      # Project documentation
-
 # How to Run:
 Make sure Python is installed on your system
 Clone this repository:
